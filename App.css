@@ -1,0 +1,19 @@
+.app{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.Tracklist {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; 
+
+}
+
+.Track-image{
+  width: 30vh;
+}
